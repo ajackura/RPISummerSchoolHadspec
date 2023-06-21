@@ -1,0 +1,13 @@
+#SUBENT      22217002
+#AUTHORS     L.Koester, W.Waschkowski, J.Meier
+#REFERENCE   Zeitschrift fuer Physik A, Hadrons and Nuclei Vol.337, p.341
+#YEAR        1990
+#TITLE       Cross sections for neutrons of 1970 eV and contribu-
+#+           tions to fundamental neutron interactions.
+#REACTION    1-H-1(N,TOT),,SIG
+#QUANTITY    Cross section
+#SUBP       222170021
+#Ene,keV     Sig,b       dSig,b
+ 1.97        20.15       0.03
+ 143         11.21       0.03
+#END

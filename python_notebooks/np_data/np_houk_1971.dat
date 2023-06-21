@@ -1,0 +1,21 @@
+#SUBENT      10139003
+#AUTHORS     T.L.Houk
+#REFERENCE   Physical Review, Part C, Nuclear Physics Vol.3, p.1886
+#YEAR        1971
+#TITLE       Neutron-Proton Scattering Cross Section at a Few
+#+           Electron Volts and Charge Independence.
+#REACTION    1-H-1(N,TOT),,SIG
+#QUANTITY    Cross section
+#SUBP       10139003 
+#Ene,keV     Sig,b       dSig,b
+ 0.010788     20.6003     0.083152
+ 0.013218     20.3909     0.082646
+ 0.016575     20.4718     0.081444
+ 0.021396     20.5007     0.079497
+ 0.028678     20.4077     0.078786
+ 0.040441     20.3676     0.07669
+ 0.061309     20.6711     0.076939
+ 0.103944     20.3519     0.074872
+ 0.214758     20.3734     0.075023
+ 0.705073     20.2676     0.087824
+#END

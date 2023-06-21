@@ -1,0 +1,20 @@
+#SUBENT      40980003
+#AUTHORS     A.L.Kirilyuk, A.V.Grebnev, P.N.Vorona, N.L.Gnidak
+#REFERENCE   1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 Vol.2, p.298
+#YEAR        1987
+#TITLE       Study of the neutron-tritium interaction in the
+#+           medium neutron energy range
+#REACTION    1-H-1(N,TOT),,SIG
+#QUANTITY    Cross section
+#SUBP       409800032
+#Ene,keV      Sig,b       dSig,b
+ 2           20.441      0.082
+ 2           20.233      0.04
+ 2           20.333      0.071
+ 2           20.121      0.024
+ 2           20.18       0.02
+ 145         11.09       0.02
+ 145         11.189      0.091
+ 145         11.074      0.079
+ 145         11.083      0.02
+#END
